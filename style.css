@@ -1,0 +1,66 @@
+.logo{
+    padding-top: 2px;
+    width: 25px;
+}
+.navbar-brand{
+    padding-left: 10px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.move{
+    
+    color: #ff6200;
+}
+.it{
+    color: white;
+}
+.form-control::placeholder{
+    color:#4d148c;
+    opacity: 0.7;
+}
+.carousel > .carousel-inner > .carousel-item > img{
+/* Yeap you can change the width and height*/
+    height: 500px;
+    object-fit: contain;
+}
+
+.navbar{
+    background-color: #4d148c;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: #ff6200;
+}
+.btn{
+    color: #ff6200;
+    border-color: #ff6200;
+}
+.btn:hover{
+    color: white;
+    border-color: white;
+}
+.d-grid > .btn{
+    background-color: #4d148c;
+
+}
+.text-center{
+    background-color: #ff6200;
+}
+.lead{
+    color: white;
+}
+.d-flex{
+    background-color: #4d148c;
+}
+.icon-link{
+    color: #4d148c;
+    font-size: 20px;
+}
+#featured-3 > h2{
+    color: #4d148c;
+}
+.copy{
+    color: #ff6200;
+}
